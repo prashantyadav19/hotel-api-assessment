@@ -4,6 +4,9 @@
   "description": "",
   "main": "server.js",
   "author": "Prashant Yadav",
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "body-parser": "^1.10.0",
     "express": "^4.10.6",
